@@ -7,7 +7,7 @@
 
 
 # GitLogWindow
-Can confirmation the commit log for the selected file or folder in the window.
+Show the commit logs of files and folders managed by GitHub on the Unity Editor.
 
 This feature is one of the "j1Tech" developed by jwellone Inc for Unity.
 
@@ -15,7 +15,7 @@ This feature is one of the "j1Tech" developed by jwellone Inc for Unity.
 ## Getting Started
 - import this package.
 - "jwellone > Window > GitLogWindow" choose.
-- Select a git managed file or folder to see the logs.
+- Select a git managed file or folder to show the logs.
 
 ![GitLogWindow](https://user-images.githubusercontent.com/85072161/170101911-639d359b-ca21-4687-9e03-777f45caadff.gif)
 
